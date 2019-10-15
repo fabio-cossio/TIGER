@@ -1,4 +1,4 @@
-# TIGER ASIC repository
+# TIGER ASIC
 
 This repository contains:
 
