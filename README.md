@@ -2,6 +2,15 @@
 
 This repository contains:
 
+## Time-walk correction curves
+
+These curves are produced by the circuit simulation and provide different corrections according to:
+
+- threshold settings (0.5-15 fC)
+- input signal charge (1-50 fC)
+- input signal duration (50-300 ns, step 10ns)
+
+
 ## Calibration files for Efine-charge conversion
 
 Each row lists:
