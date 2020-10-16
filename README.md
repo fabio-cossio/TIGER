@@ -11,7 +11,7 @@ These curves are produced by the circuit simulation and provide different correc
 - input signal duration (50-300 ns, step 10ns)
 
 
-## Calibration files for Efine-charge conversion
+## Calibration files for Efine-charge conversion (QDC)
 
 Each row lists:
 
